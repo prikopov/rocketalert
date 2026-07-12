@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RocketAlert</string>
+    <string name="status_title">Статус:</string>
+    <string name="status_active">✓ Получение SMS активно</string>
+    <string name="status_inactive">⚠ Разрешения не предоставлены</string>
+    <string name="source_title">Источник:</string>
+    <string name="keywords_title">Ключевые слова:</string>
+    <string name="btn_check_sound">Проверить звук</string>
+    <string name="btn_request_permissions">Предоставить доступ</string>
+    <string name="app_subtitle">Мониторинг экстренных оповещений</string>
+</resources>
